@@ -19,13 +19,4 @@ public class Practice {
 	public void devOops (){
 		system.debug('Hey im in Modified Class by DeOoops');
 	}
-	
-	public void DevOops(integer a, integer b){
-       Integer re= a+b;
-        system.debug('Non Pramatrized==> addition'+re);
-        
-    }
-	public void devOops (){
-		system.debug('Hey im in Modified Class by DeOoops');
-	}
 }
